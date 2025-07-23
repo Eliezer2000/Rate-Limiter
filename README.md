@@ -188,9 +188,3 @@ internal/storage.LimiterStorage
 [Eliézer Alves Bernardino](https://www.linkedin.com/in/eliezeralvesbernardino/)
 
 ---
-
-## 💡 Dica
-
-📁 Coloque os **prints reais dos testes** na pasta `prints/` do seu projeto e ajuste os caminhos das imagens no README.
-
-Se quiser, posso te ajudar a montar os prints ou revisar novamente depois que você adicionar as imagens!
