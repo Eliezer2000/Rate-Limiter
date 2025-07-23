@@ -37,7 +37,7 @@ func main () {
 	if blockTime == 0 {
 		blockTime = 300
 	}
-	window := 1 *time.Second
+	window := 30 *time.Second
 
 	redisStorage := storage.NewRedisStorage(redisAddr)
 
