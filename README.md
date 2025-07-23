@@ -21,7 +21,7 @@ Servidor web na porta 8080
 
 Configuração
 1. Clone o repositório
-git clone https://github.com/seu-usuario/rate_limiter.git
+git clone https://github.com/Eliezer2000/Rate-Limiter.git <br>
 cd rate_limiter
 
 2. Configure o arquivo .env
